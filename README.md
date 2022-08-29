@@ -80,5 +80,5 @@ Command | Description
 
 ## Authors
 
-* **Biniyam Meskele** - Github: [BiniyamMeskele](https://github.com/benimes1)
+* **Befke ezana** - Github: [BiniyamMeskele](https://github.com/benimes1)
 
